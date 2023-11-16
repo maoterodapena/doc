@@ -20,7 +20,7 @@ N.B. : Por razones de equidad, sólo puedes tener un *único nombre de dominio* 
 
 ### Subdominios
 
-El servicio de dominios `nohost.me`, `noho.st` y `ynh.fr` no permite la creación de subdominios.
+El servicio de dominios `nohost.me`, `noho.st` y `ynh.fr` permite la creación de subdominios.
 
 Aunque YunoHost permita la instalación de aplicaciones en subdominios (por ejemplo teniendo la aplicación Nextcloud accesible desde la dirección `cloud.midominio.org`), esta función no está permitida con los dominios `nohost.me` y `noho.st` y no es posible tener un subdominio tal como `miaplicacion.midominio.nohost.me`.
 
